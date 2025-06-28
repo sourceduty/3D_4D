@@ -39,3 +39,5 @@ The main formats used for representing 4D data in CAD are:
 [House Design](https://github.com/sourceduty/House_Design)
 <br>
 [3D Slicer](https://chatgpt.com/g/g-674a19c2c1c88191a1d9b5d01c4fec92-3d-slicer)
+<br>
+[3D Machine](https://chatgpt.com/g/g-67900a9c99b8819196b1b090f042b4d1-3d-machine)
