@@ -6,6 +6,20 @@
 
 #
 
+"4D format" in Computer-Aided Design (CAD) refers to a digital representation of 3D geometry that also includes additional information about its behavior over time, often referred to as "time dimension." This means it captures not only the static shape but also how it changes or moves through space and time.
+
+The main formats used for representing 4D data in CAD are:
+
+1. STEP AP203 (ISO-10303): A standard format that allows storing geometric, topological, dimensional, and behavioral information of a product lifecycle management system. It supports the representation of kinematic pairs like joints between moving parts to define their movement constraints.
+
+2. Parasolid X_T: This is an extension of the Parasolid 3D modeling kernel which adds support for time-dependent data in addition to static geometry. It allows storing and manipulating models that change over time, such as animations or simulations.
+
+3. JT (Teamcenter): A format developed by Siemens PLM Software specifically designed for large assemblies with complex kinematics. It is used extensively within the Teamcenter product lifecycle management system but can also be exported from other CAD systems like NX.
+
+4. CATIA V5: While not strictly a 4D format, it has features that allow storing and manipulating time-dependent data in addition to static geometry. This includes support for kinematic constraints between parts as well as animation capabilities within the software itself.
+
+#
+
 ![4D Software](https://github.com/user-attachments/assets/cccdbb7d-f489-4cd7-86ef-f1debca4d4c8)
 
 [4D Software](https://chatgpt.com/g/g-68600f0c2fc88191845ec4733f76a5d8-4d-software) is a custom GPT made This custom GPT, named 4D Software, is designed to assist with the conceptualization, development, and refinement of software applications that operate in or analyze data within four or more dimensions, beyond the traditional three spatial dimensions. Drawing from interdisciplinary knowledge spanning theoretical physics, advanced mathematics, and state-of-the-art computing technologies, it helps users build and understand complex systems involving multidimensional geometry, tensor calculus, and high-dimensional data structures. It is particularly geared toward supporting applications in scientific research, engineering, and data analytics where interactions with 4D data—such as time-dependent spatial phenomena, quantum simulations, or multidimensional statistical models—are essential. By leveraging machine learning, parallel computing, and interactive visualization techniques, this GPT aims to facilitate the design of predictive models and simulation tools capable of capturing intricate dynamics across multiple dimensions. 
