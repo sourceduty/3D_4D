@@ -1,4 +1,4 @@
-![4D](https://github.com/user-attachments/assets/260b86ce-fb42-48a0-9a83-fe66067b151f)
+![4D](https://github.com/user-attachments/assets/df57a63f-d5b8-4955-acb4-8111a45c91df)
 
 [4D Printing](https://chatgpt.com/g/g-5WHJLDb5U-4d-printing) is a custom GPT made to guide users through the process of designing and simulating such 4D printed objects, offering tutorials, programming help, and troubleshooting tips. It helps users—from beginners to advanced engineers—understand how to use material behavior, geometry, and stimuli to create functional time-based transformations, while also assisting in generating code and visual simulations tailored to their specific projects.
 
