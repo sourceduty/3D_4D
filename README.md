@@ -32,8 +32,6 @@ The main formats used for representing 4D data in CAD are:
 
 #
 
-[3D Concept](https://chatgpt.com/g/g-JAsawu1Lv-3d-concept)
-<br>
 [Bioengineer 4D](https://chatgpt.com/g/g-685f2499a5d88191a0a5e3a4a56dab6d-bioengineer-4d)
 <br>
 [Materialization](https://chatgpt.com/g/g-67622c518e78819191d8b16665d48071-materialization)
