@@ -43,3 +43,5 @@ The main formats used for representing 4D data in CAD are:
 [3D Machine](https://chatgpt.com/g/g-67900a9c99b8819196b1b090f042b4d1-3d-machine)
 <br>
 [3D Sensors](https://chatgpt.com/g/g-677d63de74b08191bf71d6cbd8869b3d-3d-sensors)
+<br>
+[3D Bioprint](https://chatgpt.com/g/g-67a42bf3e044819186abb55440e92820-3d-bioprint)
