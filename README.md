@@ -56,5 +56,3 @@ Also. [3D to 4D](https://chatgpt.com/g/g-6780e2acd4c481919d8e8c26a4ef22ed-3d-to-
 [3D Bioprint](https://chatgpt.com/g/g-67a42bf3e044819186abb55440e92820-3d-bioprint)
 <br>
 [Render 3D](https://chatgpt.com/g/g-6866b04b3cd081918d48553a973430ff-render-3d)
-<br>
-[3D House](https://chatgpt.com/g/g-6869ab5766388191bd58fcaab80ca8cb-3d-house)
