@@ -29,6 +29,12 @@ Also. [3D to 4D](https://chatgpt.com/g/g-6780e2acd4c481919d8e8c26a4ef22ed-3d-to-
 
 #
 
+![3D House](https://github.com/user-attachments/assets/ce2810c9-39bf-48af-b54c-5841caad9731)
+
+[3D House](https://chatgpt.com/g/g-6869ab5766388191bd58fcaab80ca8cb-3d-house) is a custom GPT made to assist in the creation, planning, and refinement of architectural designs for 3D-printed houses. It works by first understanding the client's specific needs and preferences, such as house size, style, and functionality, and then generating detailed 3D visual representations of the proposed design. The tool ensures that the layout is practical for 3D printing, while also considering factors like structural integrity, energy efficiency, and cost-effectiveness. It allows for the iterative process of adjusting and refining the design based on client feedback, offering multiple design options in various aesthetic styles and optimizing the 3D printing process for each project.
+
+#
+
 ![Seawhale City Dream](https://github.com/user-attachments/assets/58a768d8-488a-427f-9ce5-ce7b722a501b)
 
 [3D Concept](https://chatgpt.com/g/g-JAsawu1Lv-3d-concept) was created to assist users in conceptualizing, designing, and refining 3D models and product visuals. It specializes in guiding users through the process of transforming abstract ideas into detailed 3D model concepts by focusing on elements like textures, structure, lighting, and design aesthetics. Whether for professionals in product design, 3D modeling, or other creative fields, it helps streamline the creative process, offering advice on current design trends, best practices, and technical considerations. The tool is highly interactive and collaborative, encouraging users to engage in the creative journey while offering personalized suggestions and insights at each stage, ensuring their ideas are effectively brought to life with clarity and precision. By providing step-by-step assistance, 3D Concept simplifies complex tasks, helping users achieve polished and refined visual outputs for their projects.
@@ -50,3 +56,5 @@ Also. [3D to 4D](https://chatgpt.com/g/g-6780e2acd4c481919d8e8c26a4ef22ed-3d-to-
 [3D Bioprint](https://chatgpt.com/g/g-67a42bf3e044819186abb55440e92820-3d-bioprint)
 <br>
 [Render 3D](https://chatgpt.com/g/g-6866b04b3cd081918d48553a973430ff-render-3d)
+<br>
+[3D House](https://chatgpt.com/g/g-6869ab5766388191bd58fcaab80ca8cb-3d-house)
