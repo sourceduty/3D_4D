@@ -43,7 +43,7 @@ Also. [3D to 4D](https://chatgpt.com/g/g-6780e2acd4c481919d8e8c26a4ef22ed-3d-to-
 
 #
 
-![Frame](https://github.com/user-attachments/assets/f872305e-46a4-4c4e-9183-3059141d198b)
+![Frame](https://github.com/user-attachments/assets/741475bf-0084-4e7e-8b28-08fcd0a8dcf4)
 
 Alex: _The skeleton frame of 3D and 4D printing machines is likely to remain relatively constant for the foreseeable future, as the core structure must provide stability, precision, and reliability. However, the real innovation will occur within the tool heads, which are responsible for the material deposition or manipulation. As technology advances, these tool heads will evolve to support a wider range of materials, integrate multi-functionality, and even incorporate more advanced capabilities like real-time environmental sensing, self-healing, or adaptive fabrication. This evolution in tool head technology will drive the next wave of possibilities, unlocking new potentials for applications in fields like aerospace, healthcare, and consumer products._
 
