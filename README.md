@@ -1,5 +1,5 @@
+![Hologram Meme](https://github.com/user-attachments/assets/e0601641-2f73-4f14-87c6-07387fc618e3)
 ![4D](https://github.com/user-attachments/assets/df57a63f-d5b8-4955-acb4-8111a45c91df)
-![The Future](https://github.com/user-attachments/assets/05a2dd44-9e6d-4fe8-9bbb-5cd6cb868d82)
 
 [4D Printing](https://chatgpt.com/g/g-5WHJLDb5U-4d-printing) is a custom GPT made to guide users through the process of designing and simulating such 4D printed objects, offering tutorials, programming help, and troubleshooting tips. It helps users—from beginners to advanced engineers—understand how to use material behavior, geometry, and stimuli to create functional time-based transformations, while also assisting in generating code and visual simulations tailored to their specific projects.
 
@@ -53,6 +53,8 @@ Alex: _The skeleton frame of 3D and 4D printing machines is likely to remain rel
 
 American and European filament companies are renowned for their high-quality standards and innovation within the 3D printing industry. These companies emphasize precision manufacturing, using premium raw materials that meet stringent regulatory and environmental standards. Notably, American and European brands offer a wide range of filaments, including PLA, ABS, PETG, and specialty options like carbon fiber composites, catering to both hobbyists and professionals alike. They are also at the forefront of sustainability, with many companies adopting eco-friendly production practices and offering biodegradable or recyclable filament options. These qualities have helped solidify their reputation for reliable, durable, and high-performance filaments that are trusted by creators across the globe. In contrast, Chinese filament brands, often seen as less regulated, are not approved by Sourceduty due to concerns about quality control and consistency.
 
+#
+![The Future](https://github.com/user-attachments/assets/05a2dd44-9e6d-4fe8-9bbb-5cd6cb868d82)
 #
 
 [Bioengineer 4D](https://chatgpt.com/g/g-685f2499a5d88191a0a5e3a4a56dab6d-bioengineer-4d)
